@@ -15,7 +15,7 @@ I am an aspiring SOC Analyst with a strong focus on **threat detection, security
 
 I hold the **CompTIA Security+ certification**, which validates my foundational knowledge in cybersecurity, networking, and defensive security practices.
 
-My learning approach is highly practical — I design and operate my own **SOC homelab**, where I simulate real-world attacks, build detection rules, and investigate security events using enterprise tools.
+My learning approach is highly practical, I design and operate my own **SOC homelab**, where I simulate real-world attacks, build detection rules, and investigate security events using enterprise tools.
 
 ---
 
@@ -35,7 +35,7 @@ My goal is to grow into a skilled Blue Team professional specializing in **detec
 
 ## 🧠 SOC Homelab (Hands-on Experience)
 
-I built a **fully functional enterprise-style SOC lab** to gain real-world experience.
+I built a **fully functional enterprise style SOC lab** to gain real-world experience.
 
 ### 🏗️ Architecture
 
@@ -48,7 +48,7 @@ NET-EXT
 │
 FW01 (pfSense + Suricata IDS/IPS)
 │
-NET-CORP
+NET-INT
 ├─ DC01 (Windows Server 2022)
 ├─ PC01 (Windows 11)
 ├─ SRV01 (optional)
@@ -56,7 +56,6 @@ NET-CORP
 NET-SOC
 ├─ SPLK01 (Splunk SIEM)
 ├─ WAZ01 (Wazuh EDR/XDR)
-
 
 ### 🔍 What I Implemented
 
