@@ -61,8 +61,10 @@ Here's an overview of my core competencies and areas of specialization:
 [![Tines](https://img.shields.io/badge/Tines-2661E8.svg?style=flat&logoColor=white)](https://www.tines.com/)
 
 ## Certifications
+[![CompTia Security+](https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-80C0B0.svg?style=flat&logo=tryhackme&logoColor=red)]
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4.svg?style=flat&logo=google&logoColor=white)](link-do-twojego-certyfikatu-google)
 [![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-80C0B0.svg?style=flat&logo=tryhackme&logoColor=white)](link-do-twojego-certyfikatu-thm-soc1)
+
 
 ## Scripting & Query Languages
 [![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=orange)](https://www.java.com/)
